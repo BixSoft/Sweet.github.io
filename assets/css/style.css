@@ -1881,7 +1881,8 @@ ul.codex.icon-style-list {
   padding: 100px 0;
   background-position: right; }
   .banner-area .overlay {
-    background: rgba(0, 0, 0, 0.1); }
+    background: rgba(0, 0, 0, 0.5); 
+  }
     @media (min-width: 1200px) {
       .banner-area .overlay {
         display: none; } }
